@@ -1,0 +1,17 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="&lt;noname&gt;">
+      <action id="Generate" />
+      <shortuct text="alt A" />
+      <shortuct text="control A" />
+      <action id="Generate" />
+      <shortuct text="control A" />
+      <action id="EditorEnter" />
+      <action id="Generate" />
+      <action id="EditorEnter" />
+      <action id="EditorEnter" />
+      <action id="EditorEnter" />
+      <action id="Generate" />
+    </macro>
+  </component>
+</application>
