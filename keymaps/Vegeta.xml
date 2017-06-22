@@ -1,0 +1,17 @@
+<keymap version="1" name="Vegeta" parent="$default">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorContextInfo" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
+  <action id="SmartTypeCompletion" />
+  <action id="XDebugger.CopyWatch" />
+</keymap>
