@@ -1,0 +1,24 @@
+<templateSet group="Android">
+  <template name="vegeta_activity" value="/* public static final ********************************************/&#10;    &#10;/* Filed **********************************************************/&#10;    &#10;/* View ***********************************************************/&#10;    &#10;/* Adapter ********************************************************/&#10;    &#10;/* data ***********************************************************/&#10;    &#10;/* flag ***********************************************************/" description="declaration of activity" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="vegeta_activity_oncreate" value="/* intent *****************************************************/&#10;        &#10;/* init *******************************************************/&#10;        &#10;/* layout head ************************************************/&#10;        &#10;/* layout content *********************************************/&#10;        &#10;/* layout foot ************************************************/&#10;        &#10;/* start ******************************************************/" description="activity onCreate" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="step" value="/* $i$ */" description="block style -&gt; all blue" toReformat="false" toShortenFQNames="true">
+    <variable name="i" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="switc" value="switch ($i$) {&#10;    case 0:&#10;        break;&#10;    case 1:&#10;        break;&#10;    case 2:&#10;        break;&#10;    case    :&#10;        break;&#10;    &#10;    default:&#10;        break;&#10;}" description="switch statement 0,1,2" toReformat="false" toShortenFQNames="true">
+    <variable name="i" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

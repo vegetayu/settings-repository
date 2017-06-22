@@ -1,0 +1,4 @@
+/quicklists
+/tasks
+*.lock
+*.token
