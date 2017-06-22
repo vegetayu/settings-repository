@@ -1,0 +1,43 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>ButterKnife.unbind(this);</find>
+      <find>orderStateColor</find>
+      <find>WXAPIFactory.createWXAPI</find>
+      <find>mMainViewPager</find>
+      <find>activity_main</find>
+      <find>mScroller</find>
+      <find>performtr</find>
+      <find>measure()</find>
+      <find>onMeasure</find>
+      <find>onInterceptTouchEvent</find>
+      <find>supportlib_version</find>
+      <find>rx</find>
+      <find>con</find>
+      <find>view</find>
+      <find>status</find>
+      <find>picass</find>
+      <find>mp3</find>
+      <find>recycler_adapter_version</find>
+      <find>junit_version</find>
+      <find>_v</find>
+      <find>$</find>
+      <find>retro</find>
+      <find>glideOkhttpIntegrationVersion</find>
+      <find>glide</find>
+      <find>compile</find>
+      <find>glide-parent</find>
+      <find>systemPro</find>
+      <find>mToolbar</find>
+      <find>R.layout</find>
+      <find>onGetLayoutId</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>@BindView</replace>
+      <replace>import butterknife.BindView;</replace>
+      <replace />
+      <replace>V</replace>
+      <replace>$rootProject.</replace>
+    </replaceStrings>
+  </component>
+</application>
