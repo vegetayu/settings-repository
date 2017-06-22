@@ -1,1 +1,6 @@
-<keymap version="1" name="Default copy 0" parent="$default" />
+<keymap version="1" name="Default copy 0" parent="$default">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
+  <action id="EditorContextInfo" />
+</keymap>
