@@ -1,8 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="extend copy">
-      <action id="EditorSelectWord" />
-      <action id="EditorCopy" />
-    </macro>
-  </component>
-</application>
