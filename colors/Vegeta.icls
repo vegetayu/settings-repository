@@ -3,13 +3,12 @@
     <property name="created">2017-06-23T10:58:22</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2.3.3.0</property>
-    <property name="modified">2017-06-23T10:58:37</property>
+    <property name="modified">2017-06-23T12:14:18</property>
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <attributes>
     <option name="JAVA_BLOCK_COMMENT">
@@ -32,22 +31,22 @@
     </option>
     <option name="LOGCAT_DEBUG_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="5477bb" />
+        <option name="FOREGROUND" value="5394ec" />
       </value>
     </option>
     <option name="LOGCAT_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff383c" />
+        <option name="FOREGROUND" value="ff4444" />
       </value>
     </option>
     <option name="LOGCAT_INFO_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="27bb31" />
+        <option name="FOREGROUND" value="33bb33" />
       </value>
     </option>
     <option name="LOGCAT_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="bba531" />
+        <option name="FOREGROUND" value="ffff00" />
       </value>
     </option>
     <option name="XML_COMMENT">
