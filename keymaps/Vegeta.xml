@@ -5,15 +5,26 @@
   <action id="ActivateAndroidToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
+  <action id="ActivateDebugToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ActivateMessagesToolWindow">
+    <keyboard-shortcut first-keystroke="alt 5" />
+  </action>
   <action id="ActivatePreviewToolWindow">
     <keyboard-shortcut first-keystroke="alt 7" />
   </action>
+  <action id="ActivateRunToolWindow" />
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="ActivateTODOToolWindow" />
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="shift f11" />
   </action>
@@ -65,6 +76,9 @@
   <action id="Gsonformat" />
   <action id="Macro.extend copy">
     <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="Macro.extend paste">
+    <keyboard-shortcut first-keystroke="alt v" />
   </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
