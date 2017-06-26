@@ -25,6 +25,9 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="shift f11" />
   </action>
