@@ -11,7 +11,15 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/wushenggit/GeekNews.git" />
+          <option name="url" value="https://github.com/veontomo/HookMethodsSorter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/DaveKriewall/Rearranger.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/wushenggit/summary-luyao.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>

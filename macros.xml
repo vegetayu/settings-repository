@@ -4,5 +4,9 @@
       <action id="EditorSelectWord" />
       <action id="EditorCopy" />
     </macro>
+    <macro name="extend paste">
+      <action id="EditorSelectWord" />
+      <action id="EditorPaste" />
+    </macro>
   </component>
 </application>
