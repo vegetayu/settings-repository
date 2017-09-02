@@ -1,17 +1,20 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="&lt;noname&gt;">
-      <action id="Generate" />
-      <shortuct text="alt A" />
-      <shortuct text="control A" />
-      <action id="Generate" />
-      <shortuct text="control A" />
-      <action id="EditorEnter" />
-      <action id="Generate" />
-      <action id="EditorEnter" />
-      <action id="EditorEnter" />
-      <action id="EditorEnter" />
-      <action id="Generate" />
+    <macro name="extend copy">
+      <action id="EditorSelectWord" />
+      <action id="EditorCopy" />
+    </macro>
+    <macro name="extend paste">
+      <action id="EditorSelectWord" />
+      <action id="EditorPaste" />
+    </macro>
+    <macro name="paste2">
+      <action id="PasteMultiple" />
+      <typing text-keycode="50:0">2</typing>
+    </macro>
+    <macro name="paste1">
+      <action id="PasteMultiple" />
+      <typing text-keycode="49:0">1</typing>
     </macro>
   </component>
 </application>

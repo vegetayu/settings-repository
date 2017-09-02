@@ -1,0 +1,29 @@
+<idea-plugin version="2">
+  <name>GsonFormat</name>
+  <description>
+&lt;html&gt;quickly to convert a JSON string to an InnerClassEntity class ..&lt;br&gt;
+&lt;a href="https://github.com/zzz40500/GsonFormat"&gt; openSource&lt;/a&gt;
+      &lt;/html&gt;
+      
+    </description>
+  <version>1.3.0</version>
+  <vendor email="wyh405003836@126.com">zzz40500</vendor>
+  <idea-version since-build="107.121"/>
+  <change-notes>
+  &lt;p&gt;
+  1.3.0
+  &lt;ul&gt;
+  &lt;li&gt;New: Support for autovalue&lt;/li&gt;
+  &lt;li&gt;New: Support for lombok&lt;/li&gt;
+  &lt;li&gt;New: Support for split generate class&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;/p&gt;
+</change-notes>
+  <actions>
+    <action id="Gsonformat" class="org.gsonformat.intellij.MainAction" text="GsonFormat">
+      <add-to-group group-id="GenerateGroup" anchor="last"/>
+      <keyboard-shortcut keymap="$default" first-keystroke="alt s"/>
+    </action>
+  </actions>
+  <extensions defaultExtensionNs="com.intellij"/>
+</idea-plugin>
