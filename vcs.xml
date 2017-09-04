@@ -50,4 +50,7 @@
     </option>
     <option name="cloneParentDir" value="D:\workspace" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="D:\workspace\AndroidLawyerU\LawyerU" />
+  </component>
 </application>
