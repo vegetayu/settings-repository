@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="butterknife.gradle" type="PLAIN_TEXT" />
+      <mapping ext="aar" type="PLAIN_TEXT" />
       <mapping ext="ppp" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
