@@ -4,10 +4,12 @@ Android Studio 设置文件的仓库，可以一键设置 Android Studio ，也�
 
 ### 1. 在 Android Studio 中配置设置文件的仓库。
 File->Settings Repository
+
 ![config-settings](https://github.com/vegetayu/settings-repository/blob/master/readme-pic/config-settings.png)
 
 ### 2. 一键设置 Android Studio。
 输入仓库地址，点击 Overwrite lLocal。
+
 ![apply-settings](https://github.com/vegetayu/settings-repository/blob/master/readme-pic/apply-settings.png)
 
 说明：
