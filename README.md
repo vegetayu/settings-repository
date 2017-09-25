@@ -13,9 +13,11 @@ File->Settings Repository
 ![apply-settings](https://github.com/vegetayu/settings-repository/blob/master/readme-pic/apply-settings.png)
 
 > 说明：
-Merge：合并设置
-Overwrite Local：覆盖本地设置文件
-Overwrite Remote：覆盖远程仓库设置文件
+Merge：合并设置；
+
+Overwrite Local：覆盖本地设置文件；
+
+Overwrite Remote：覆盖远程仓库设置文件。
 
 ### 3. 将设置文件更新到仓库中。
 
