@@ -1,5 +1,5 @@
 # settings-repository
-Android Studio 设置文件的仓库，可以一键设置 Android Studio ，也可以将设置的修改保存到仓库中。
+**Android Studio 设置文件的仓库，可以一键设置 Android Studio ，也可以将设置的修改保存到仓库中。**
 
 
 ### 1. 在 Android Studio 中配置设置文件的仓库。
