@@ -72,6 +72,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
   <action id="EditorUnindentSelection" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="alt g" />
@@ -104,10 +108,6 @@
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="ShowBookmarks" />
-  <action id="ShowIntentionActions">
-    <keyboard-shortcut first-keystroke="alt enter" />
-    <keyboard-shortcut first-keystroke="alt e" />
-  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
