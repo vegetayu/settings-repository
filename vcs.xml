@@ -59,14 +59,15 @@
           <option name="userName" value="vegetayu" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitee.com/gclife-app-team/GCAPP-Android.git" />
+          <option name="url" value="https://github.com/vegetayu/trunk.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/JakeWharton/butterknife.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workspace" />
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="D:\workspace\AndroidLawyerU\LawyerU" />
   </component>
 </application>
