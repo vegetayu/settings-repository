@@ -8,5 +8,9 @@
       <action id="EditorSelectWord" />
       <action id="EditorPaste" />
     </macro>
+    <macro name="paste2">
+      <action id="PasteMultiple" />
+      <typing text-keycode="50:0">2</typing>
+    </macro>
   </component>
 </application>
