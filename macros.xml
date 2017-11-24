@@ -12,5 +12,14 @@
       <action id="PasteMultiple" />
       <typing text-keycode="50:0">2</typing>
     </macro>
+    <macro name="exexdelete">
+      <action id="EditorSelectWord" />
+      <action id="EditorSelectWord" />
+      <action id="EditorDelete" />
+    </macro>
+    <macro name="paste last">
+      <action id="PasteMultiple" />
+      <typing text-keycode="97:0">1</typing>
+    </macro>
   </component>
 </application>

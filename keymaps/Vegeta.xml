@@ -40,6 +40,9 @@
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
   <action id="EditorAddRectangularSelectionOnMouseDrag" />
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
@@ -63,6 +66,10 @@
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
+  <action id="EditorPaste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="shift insert" />
+  </action>
   <action id="EditorScrollToCenter" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt w" />
@@ -81,11 +88,17 @@
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="Gsonformat" />
+  <action id="Macro.exexdelete">
+    <keyboard-shortcut first-keystroke="alt numpad3" />
+  </action>
   <action id="Macro.extend copy">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="Macro.extend paste">
     <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="Macro.paste last">
+    <mouse-shortcut keystroke="alt button5" />
   </action>
   <action id="Macro.paste1">
     <keyboard-shortcut first-keystroke="alt numpad1" />
@@ -103,6 +116,12 @@
   <action id="MoveStatementUp" />
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="alt period" />
+  </action>
+  <action id="PlaybackLastMacro">
+    <mouse-shortcut keystroke="control button5" />
+  </action>
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="ctrl alt f8" />
   </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt d" />
