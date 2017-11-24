@@ -1,4 +1,7 @@
 <keymap version="1" name="Vegeta" parent="$default">
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
   <action id="ActivateAndroidMonitorToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
@@ -31,6 +34,9 @@
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="shift f11" />
   </action>
+  <action id="AndroidUnusedResourceAction">
+    <keyboard-shortcut first-keystroke="shift delete" />
+  </action>
   <action id="ChangesView.AddUnversioned" />
   <action id="ChangesView.Revert" />
   <action id="CloseContent">
@@ -59,6 +65,9 @@
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="EditorContextInfo" />
+  <action id="EditorCut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
