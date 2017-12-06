@@ -1,7 +1,7 @@
 # settings-repository
 
 IntelliJ系列IDE的通用配置文件仓库。
-> 详见: [JetBarins plugin Settings Repository](https://plugins.jetbrains.com/plugin/7566-settings-repository)
+> Compatible with: IntelliJ IDEA  PhpStorm  WebStorm  PyCharm  RubyMine  AppCode  CLion  GoLand  DataGrip  Rider  Android Studio  (详见: [JetBarins plugin Settings Repository](https://plugins.jetbrains.com/plugin/7566-settings-repository))
 
 **一键导入IDE设置。**
 
