@@ -1,16 +1,9 @@
-<code_scheme name="Vegeta">
+<code_scheme name="Vegeta" version="173">
   <option name="USE_SAME_INDENTS" value="true" />
   <option name="IGNORE_SAME_INDENTS_FOR_LANGUAGES" value="true" />
   <option name="OTHER_INDENT_OPTIONS">
     <value>
-      <option name="INDENT_SIZE" value="4" />
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="4" />
-      <option name="USE_TAB_CHARACTER" value="false" />
-      <option name="SMART_TABS" value="false" />
-      <option name="LABEL_INDENT_SIZE" value="0" />
-      <option name="LABEL_INDENT_ABSOLUTE" value="false" />
-      <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
@@ -110,8 +103,8 @@
       <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="DeallocMethod" />
     </class>
     <extensions>
-      <pair source="cpp" header="h" />
-      <pair source="c" header="h" />
+      <pair source="c" header="h" fileNamingConvention="NONE" />
+      <pair source="cpp" header="h" fileNamingConvention="NONE" />
     </extensions>
   </Objective-C-extensions>
   <XML>
@@ -209,7 +202,6 @@
   <codeStyleSettings language="JSON">
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
-    <option name="PARENT_SETTINGS_INSTALLED" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
     </indentOptions>
